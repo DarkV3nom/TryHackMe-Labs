@@ -13,3 +13,13 @@ Tasks of Defensive Security:
 
 Security Operations Center (SOC):
 - Monitors the network and its systems to detect malicious cyber security events.
+
+Threat Intelligence:
+Gather information to help the company better prepare against potential adversaries.
+Intelligence needs data. Data has to be collected, processed, and analyzed.
+Vulnerabilities, Policy Violations, Unauthorized activities and Network intrusions.
+
+Digital Forensics and Incident Response (DFIR):
+Digital forensics - Analyzing evidence of an attack and its perpetrators and other areas such as intellectual property theft, cyber espionage, and possession of unauthorized content.
+File system, System memory, System logs and Network logs.
+Incident Resposne - Methodology that should be followed to handle a case of How would you respond to a cyber attack?
