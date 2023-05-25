@@ -5,11 +5,11 @@ Offensive Security: It is the process of breaking into computer systems, exploit
 Defensive security: It is the process of protecting an organization's network and computer systems by analyzing and securing any potential digital threats; learn more in the digital forensics room.
 
 Tasks of Defensive Security:
-- User cyber security awareness: Training users about cyber security helps protect against various attacks that target their systems.
-- Documenting and managing assets: We need to know the types of systems and devices that we have to manage and protect properly.
-- Updating and patching systems: Ensuring that computers, servers, and network devices are correctly updated and patched against any known vulnerability (weakness).
-- Setting up preventative security devices: firewall and intrusion prevention systems (IPS) are critical components of preventative security. Firewalls control what network traffic can go inside and what can leave the system or network. IPS blocks any network traffic that matches present rules and attack signatures.
-- Setting up logging and monitoring devices: Without proper logging and monitoring of the network, it won’t be possible to detect malicious activities and intrusions. If a new unauthorized device appears on our network, we should be able to know.
+- User cyber security awareness
+- Documenting and managing assets
+- Updating and patching systems
+- Setting up preventative security devices
+- Setting up logging and monitoring devices
 
 Security Operations Center (SOC):
 - Monitors the network and its systems to detect malicious cyber security events.
@@ -23,3 +23,30 @@ Digital Forensics and Incident Response (DFIR):
 Digital forensics - Analyzing evidence of an attack and its perpetrators and other areas such as intellectual property theft, cyber espionage, and possession of unauthorized content.
 File system, System memory, System logs and Network logs.
 Incident Resposne - Methodology that should be followed to handle a case of How would you respond to a cyber attack?
+Preparation, Detection and Analysis, Containment, Eradication and Recovery, Post Incident Activity
+
+Malware Analysis:
+Learn about malicious programs using static analysis and dynamic analysis
+Virus, Trojan Horse and Ransomware
+
+Security Analyst:
+Responsible for maintaining the security of an organisation's data.
+
+Security Engineer:
+Design, monitor and maintain security controls, networks, and systems to help prevent cyberattacks.
+
+Incident Responder:
+Identifies and mitigates attacks whilst an attackers operations are still unfolding.
+
+Digital Forensics Examiner
+Responsible for using digital forensics to investigate incidents and crimes.
+
+Malware Analyst
+Analyses all types of malware to learn more about how they work and what they do
+
+Penetration Tester
+Responsible for testing technology products for security loopholes
+
+Red Teamer
+Plays the role of an adversary, attacking an organisation and providing feedback from an enemies perspective
+
